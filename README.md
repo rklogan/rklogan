@@ -13,7 +13,7 @@ My name is Ryan Logan. I'm a software developer from Montreal, Canada, currently
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rklogan&repo=Combiner&theme=radical" />
 </a>
 <a href="https://github.com/rklogan/Cartpole-RL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?usernam=rklogan&repo=Cartpole-RL&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rklogan&repo=Cartpole-RL&theme=radical" />
 </a>
 
 <!-- Project References -->
@@ -24,18 +24,3 @@ My name is Ryan Logan. I'm a software developer from Montreal, Canada, currently
 
 <!-- Image References -->
 [linkedIn_icon]: ./img/linkedin-3-16.PNG
-
-<!--
-**rklogan/rklogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
