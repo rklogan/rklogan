@@ -8,7 +8,7 @@ My name is Ryan Logan, a software developer from Montreal, Canada. I am currentl
 [linkedin_site]: https://www.linkedin.com/in/ryan-logan-4866b5156/
 
 <!-- Image References -->
-[linkedIn_icon]: ./img/linkedin-3-16
+[linkedIn_icon]: ./img/linkedin-3-16.PNG
 
 <!--
 **rklogan/rklogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
