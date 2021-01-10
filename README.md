@@ -3,17 +3,17 @@ My name is Ryan Logan. I'm a software developer from Montreal, Canada, currently
 
 ## Github Stats &#x1F4CA;
 <a href="https://github.com/rklogan/rklogan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rklogan&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rklogan&theme=prussian" />
 </a>
 <a href="https://github.com/rklogan/rklogan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rklogan&show_icons=true&count_private=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rklogan&show_icons=true&count_private=true&theme=prussian" />
 </a>
 
 <a href="https://github.com/rklogan/Combiner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rklogan&repo=Combiner&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rklogan&repo=Combiner&theme=prussian" />
 </a>
 <a href="https://github.com/rklogan/Cartpole-RL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rklogan&repo=Cartpole-RL&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=rklogan&repo=Cartpole-RL&theme=prussian" />
 </a>
 
 <!-- Project References -->
