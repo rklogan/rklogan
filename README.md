@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ryan Logan, a software developer from Montreal, Canada. I am currently working on an audio processing tool [Combiner](https://github.com/rklogan/Combiner). You can find me on [![LinkedIn][linkedIn_icon][linkedin_site]]
+My name is Ryan Logan, a software developer from Montreal, Canada. I am currently working on an audio processing tool [Combiner](https://github.com/rklogan/Combiner). You can find me on [![LinkedIn][linkedIn_icon]][linkedin_site].
 
 
 <!-- Project References -->
