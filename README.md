@@ -23,4 +23,4 @@ My name is Ryan Logan. I'm a software developer from Montreal, Canada, currently
 [linkedin_site]: https://www.linkedin.com/in/ryan-logan-4866b5156/
 
 <!-- Image References -->
-[linkedIn_icon]: ./img/linkedin-3-16.PNG
+[linkedIn_icon]: ./img/linkedin-3-16.png
