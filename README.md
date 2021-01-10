@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Ryan Logan, a software developer from Montreal, Canada. I am currently working on an audio processing tool [Combiner](https://github.com/rklogan/Combiner). You can find me on [![LinkedIn][linkedIn_icon][linkedin_site]]
+
+
+<!-- Project References -->
+
+<!-- Links -->
+[linkedin_site]: https://www.linkedin.com/in/ryan-logan-4866b5156/
+
+<!-- Image References -->
+[linkedIn_icon]: ./img/linkedin-3-16
 
 <!--
 **rklogan/rklogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
